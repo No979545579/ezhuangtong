@@ -55,6 +55,13 @@
       "unicode_decimal": 58917
     },
     {
+      "icon_id": "1091434",
+      "name": "维修",
+      "font_class": "weixiu",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
       "icon_id": "1130638",
       "name": "扫码",
       "font_class": "saoma",
@@ -81,6 +88,13 @@
       "font_class": "daohang",
       "unicode": "e612",
       "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "1394387",
+      "name": "慢",
+      "font_class": "man",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
     },
     {
       "icon_id": "2777809",
@@ -130,6 +144,20 @@
       "font_class": "fangdajing",
       "unicode": "e637",
       "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "4800408",
+      "name": "快",
+      "font_class": "kuai",
+      "unicode": "e702",
+      "unicode_decimal": 59138
+    },
+    {
+      "icon_id": "4800411",
+      "name": "慢",
+      "font_class": "man1",
+      "unicode": "e703",
+      "unicode_decimal": 59139
     },
     {
       "icon_id": "5035893",
@@ -200,6 +228,13 @@
       "font_class": "voucher",
       "unicode": "e6e9",
       "unicode_decimal": 59113
+    },
+    {
+      "icon_id": "9931615",
+      "name": "电 话",
+      "font_class": "dianhua",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
     },
     {
       "icon_id": "10005587",
