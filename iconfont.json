@@ -230,6 +230,20 @@
       "unicode_decimal": 59113
     },
     {
+      "icon_id": "9643008",
+      "name": "对",
+      "font_class": "dui",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "9881060",
+      "name": "支",
+      "font_class": "zhi",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
       "icon_id": "9931615",
       "name": "电 话",
       "font_class": "dianhua",
@@ -247,8 +261,8 @@
       "icon_id": "10143467",
       "name": "用户",
       "font_class": "yonghu",
-      "unicode": "e613",
-      "unicode_decimal": 58899
+      "unicode": "e615",
+      "unicode_decimal": 58901
     },
     {
       "icon_id": "10307092",
@@ -263,6 +277,13 @@
       "font_class": "zhangdan1",
       "unicode": "e6da",
       "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "13008426",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
     }
   ]
 }
